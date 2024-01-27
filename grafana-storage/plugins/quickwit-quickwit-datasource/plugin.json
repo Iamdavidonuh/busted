@@ -1,0 +1,63 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "datasource",
+  "name": "Quickwit",
+  "id": "quickwit-quickwit-datasource",
+  "metrics": true,
+  "backend": true,
+  "alerting": true,
+  "annotations": true,
+  "logs": true,
+  "executable": "gpx_quickwit",
+  "category": "logging",
+  "info": {
+    "description": "Quickwit is an OSS, Cloud-Native search engine on object storage. This plugin allows you to visualize logs and build dashboards on top of Quickwit.",
+    "author": {
+      "name": "Quickwit",
+      "url": "https://quickwit.io"
+    },
+    "keywords": ["datasource", "logs", "log management", "log observability", "log analytics", "quickwit"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/quickwit-oss/quickwit-datasource"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/quickwit-oss/quickwit-datasource/blob/main/LICENSE"
+      },
+      {
+        "name": "Website",
+        "url": "https://quickwit.io"
+      }
+    ],
+    "screenshots": [
+      {
+        "name": "Log Explorer",
+        "path": "img/screenshot-explorer-view.png"
+      },
+      {
+        "name": "Log Explorer with query",
+        "path": "img/screenshot-explorer-view-with-query.png"
+      },
+      {
+        "name": "Log Explorer with raw query",
+        "path": "img/screenshot-explorer-view-with-raw-query.png"
+      },
+      {
+        "name": "Dashboard",
+        "path": "img/screenshot-dashboard-view.png"
+      }
+    ],
+    "version": "0.3.0",
+    "updated": "2024-01-05"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=9.5",
+    "plugins": []
+  }
+}

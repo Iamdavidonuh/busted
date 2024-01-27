@@ -1,0 +1,45 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "commercial",
+  "signedByOrg": "quickwit",
+  "signedByOrgName": "quickwit",
+  "plugin": "quickwit-quickwit-datasource",
+  "version": "0.3.0",
+  "time": 1704448549170,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "61e489ace199ea71e5c96c6f0f6abfd93f09673a4edc6ebbf9336c5c3d791011",
+    "gpx_quickwit_linux_amd64": "ee8f4b769c154a03884e9064726534ba310bcf6a1895a877df7e494d7c608f3f",
+    "img/screenshot-explorer-view-with-raw-query.png": "8fc8f7431ffed6553d134d9994bf42e1c8501076e0ad9782e44ad45393c81dc4",
+    "img/screenshot-explorer-view.png": "75b4a4081450a66471af3f248bbfdb657afffa1c3c69f514b7d7bad4eea36f69",
+    "img/logo.svg": "7e2ad8943ba989d8bec2bfa79118be3d701639fd48c80ffa1261f069ca53a842",
+    "img/screenshot-dashboard-view.png": "0b07af71fa18655e424e79935fd83086a1bf9396f58700b5e53b1c1635b7651e",
+    "img/screenshot-explorer-view-with-query.png": "0af193ea18c49202ddda9fc8297fe3547ad6d0a5b4b9619bf37b6132988cdac7",
+    "go_plugin_build_manifest": "ab72443ff1b4cccbdfa8c3d13e8853311fa1ac04cbb81ca067c6531156477804",
+    "plugin.json": "7f621afa48506c56ce1730bab2518151a5cda92db5b705b641aeff4c228292ab",
+    "gpx_quickwit_darwin_arm64": "51617882dbbf71990778d1bee8dab87557a15be56a8e201059f060ac3263b24b",
+    "module.js.map": "50c2d0d958a0924a11443b3b5024394ed35a2a3dd69cac55d2f8a0efd176cb13",
+    "gpx_quickwit_darwin_amd64": "0f24d13a5a55d4a76eabcb83aca1a9d05ad5ead91bc29588c12fdae694112d37",
+    "LICENSE": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+    "gpx_quickwit_linux_arm": "978cb472aa9a95f00b92d6c9a03a00301c987715de43ae8e37477397b41968d6",
+    "module.js": "3a37978dfa622b95bdbe9a2c45affa033bea2c59113a714792c2f243bc399695",
+    "gpx_quickwit_windows_amd64.exe": "2963ae91051c0a13b14157ecd4229e6f57f2c438beeb4169cf58cb7d4504bc7c",
+    "gpx_quickwit_linux_arm64": "a4398edf25727925054043a685e7301a79d3803bfc0b1b50c98bff99f0ee40d5",
+    "README.md": "8c6d9ea0babdb7e920b20462786b1d9f1e20828045d9be14fe7841e6d1978b83"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmWX0iUAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5xv9AgkByHOOs1sb5EFxvZ/bK8eJTzUqwf58uRNIQTDWLUWO4U5ZBlx7
+EoRIaUJYAavcKzYJ15uA9T7aVOUg/8NbC+AFh4ACCQHYomwTxq5Lx04trB7e
+4GGapromEE+Tayf5FqRhlFPawYgZv1RJjbQL4KyZDTgjphGsKBPf+W6TjmyZ
+WWF0F9CJ+Q==
+=OYwa
+-----END PGP SIGNATURE-----
